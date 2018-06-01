@@ -1,2 +1,0 @@
-# origen
-Web publishing platform
